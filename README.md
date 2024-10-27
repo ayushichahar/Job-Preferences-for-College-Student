@@ -15,3 +15,17 @@
  Suggest optimal career paths for students based on their individual profiles.
  Recommend job opportunities that align with students' skills and preferences..
  Highlight the most suitable job roles and industries. .
+
+ ## Tasks:
+ ### 1. Survey Design and Data Collection:
+
+ Create and distribute a survey to gather detailed information from college students,
+ including their skills, job preferences, domain preferences, and basic personal details.
+ 
+ ### 2. Data Preprocessing:
+ Clean and preprocess the collected data, handling missing values, encoding categorical
+ variables, and standardizing data formats to prepare for model training
+
+ ### 3. Create Visualization Report:
+ Create a Visualization report of the survey data that you have collected,
+ make sure to mention the hypothesis of each graph and the conclusion of it.
